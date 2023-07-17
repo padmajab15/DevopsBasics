@@ -29,4 +29,4 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'warfile'
     publishLocation: 'Azure Pipelines'
-    MaxArtifactSize: 1
+    MaxArtifactSize: 0
